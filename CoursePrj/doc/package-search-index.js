@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"CoursePrj","l":"iuh.fit.cs"}];updateSearchResults();
