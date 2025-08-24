@@ -1,3 +1,9 @@
+/**
+ * @description:  This class represents Course
+ * @author:  Nguyen Quang Vinh
+ * @version: jdk.21
+ * @created: 24-Aug-2025 3:32:00 PM
+ */
 package iuh.fit.cs;
 
 /**
